@@ -61,13 +61,20 @@ npm install
 npm run dev
 ```
 
-📸 Screenshots
+## 📸 Screenshots
 
-Home Page
+### Home Page
+![Home Page](screenshots/HomePage1.png)
+![Home Page](screenshots/HomePage2.png)
+![Home Page](screenshots/HomePage3.png)
 
-Feedback Form
+### Feedback Form
+![Feedback Form](screenshots/FeedbackPage.png)
 
-Admin Dashboard
+### Admin Dashboard
+![Admin Dashboard](screenshots/Dashboard1.png)
+![Admin Dashboard](screenshots/Dashboard2.png)
+
 
 🙋‍♂️ Author
 

@@ -64,16 +64,16 @@ npm run dev
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/HomePage1.png)
-![Home Page](screenshots/HomePage2.png)
-![Home Page](screenshots/HomePage3.png)
+![Home Page](Screenshots/HomePage1.png)
+![Home Page](Screenshots/HomePage2.png)
+![Home Page](Screenshots/HomePage3.png)
 
 ### Feedback Form
-![Feedback Form](screenshots/FeedbackPage.png)
+![Feedback Form](Screenshots/FeedbackPage.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/Dashboard1.png)
-![Admin Dashboard](screenshots/Dashboard2.png)
+![Admin Dashboard](Screenshots/Dashboard1.png)
+![Admin Dashboard](Screenshots/Dashboard2.png)
 
 
 🙋‍♂️ Author

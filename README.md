@@ -63,6 +63,8 @@ npm run dev
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Home Page
 ![Home Page](Screenshots/HomePage1.png)
 ![Home Page](Screenshots/HomePage2.png)
@@ -74,6 +76,12 @@ npm run dev
 ### Admin Dashboard
 ![Admin Dashboard](Screenshots/Dashboard1.png)
 ![Admin Dashboard](Screenshots/Dashboard2.png)
+
+### Login Page
+![Login Page](Screenshots/LoginPage.png)
+
+### Signup Page
+![Signup Page](Screenshots/SignUpPage.png)
 
 
 🙋‍♂️ Author

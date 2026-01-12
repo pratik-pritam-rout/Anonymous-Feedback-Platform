@@ -63,8 +63,6 @@ npm run dev
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Home Page
 ![Home Page](Screenshots/HomePage1.png)
 ![Home Page](Screenshots/HomePage2.png)

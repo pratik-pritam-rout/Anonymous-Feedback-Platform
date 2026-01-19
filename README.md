@@ -5,11 +5,6 @@ It allows users to submit feedback anonymously while admins can securely view an
 
 ---
 
-## 🚀 Live Demo
-(Add deployment link here once deployed)
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
